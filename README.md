@@ -7,9 +7,10 @@ song song với chương trình học tại FPT Polytechnic.
 ## Tiến độ
 - [x] Java Basics
 - [x] OOP
-- [ ] Collections Framework (đang học)
-- [ ] Servlet/JSP
-- [ ] JDBC
+- [x] Collections Framework 
+- [x] Servlet/JSP
+- [x] JDBC
+- [ ] Mini Project (đang làm)
 
 ## Cách dùng repo này
 Mỗi thư mục có README riêng ghi lại:
